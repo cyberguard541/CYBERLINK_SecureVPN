@@ -1,5 +1,5 @@
 #!/bin/bash
-cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
+cp /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
 #Database Details
 HOST='104.218.54.194';
 USER='acyberli_Cereal';
